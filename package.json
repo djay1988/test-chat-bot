@@ -2,7 +2,7 @@
   "name": "isitup-bot",
   "version": "1.0.1",
   "description": "A bot interface to work with Viber API",
-  "author": "Itamar",
+  "author": "Dilshan",
   "repository": "https://github.com/djay1988/test-chat-bot",
   "engines": {
     "node": ">=5",
